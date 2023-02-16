@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+environment/project/io.sloeber.core.sketch.0/PATH/delimiter=\:
+environment/project/io.sloeber.core.sketch.0/PATH/operation=replace
+environment/project/io.sloeber.core.sketch.0/PATH/value=${compiler.path}${PathDelimiter}${build.generic.path}${PathDelimiter}${PATH}${STM32CubeProgrammer}
+environment/project/io.sloeber.core.sketch.0/STM32CubeProgrammer/delimiter=\:
+environment/project/io.sloeber.core.sketch.0/STM32CubeProgrammer/operation=append
+environment/project/io.sloeber.core.sketch.0/STM32CubeProgrammer/value=/home/swacil-electronic/Applications/STMicroelectronics/STM32Cube/STM32CubeProgrammer/bin
+environment/project/io.sloeber.core.sketch.0/append=true
+environment/project/io.sloeber.core.sketch.0/appendContributed=true

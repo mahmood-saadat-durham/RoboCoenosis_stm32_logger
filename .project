@@ -42,9 +42,19 @@
 			<locationURI>ECLIPSE_HOME/arduinoPlugin/packages/STMicroelectronics/hardware/stm32/2.4.0/variants/STM32L4xx/L475R(C-E-G)T_L476R(C-E-G)T_L486RGT</locationURI>
 		</link>
 		<link>
+			<name>libraries/Adafruit_BusIO</name>
+			<type>2</type>
+			<locationURI>ECLIPSE_HOME/arduinoPlugin/libraries/Adafruit_BusIO/1.14.1</locationURI>
+		</link>
+		<link>
 			<name>libraries/IWatchdog</name>
 			<type>2</type>
 			<locationURI>ECLIPSE_HOME/arduinoPlugin/packages/STMicroelectronics/hardware/stm32/2.4.0/libraries/IWatchdog</locationURI>
+		</link>
+		<link>
+			<name>libraries/RTClib</name>
+			<type>2</type>
+			<locationURI>ECLIPSE_HOME/arduinoPlugin/libraries/RTClib/2.1.1</locationURI>
 		</link>
 		<link>
 			<name>libraries/SD</name>
@@ -60,6 +70,11 @@
 			<name>libraries/SrcWrapper</name>
 			<type>2</type>
 			<locationURI>ECLIPSE_HOME/arduinoPlugin/packages/STMicroelectronics/hardware/stm32/2.4.0/libraries/SrcWrapper</locationURI>
+		</link>
+		<link>
+			<name>libraries/Wire</name>
+			<type>2</type>
+			<locationURI>ECLIPSE_HOME/arduinoPlugin/packages/STMicroelectronics/hardware/stm32/2.4.0/libraries/Wire</locationURI>
 		</link>
 	</linkedResources>
 </projectDescription>

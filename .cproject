@@ -24,8 +24,11 @@
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/stm32_logger/libraries/SrcWrapper/src}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/stm32_logger/libraries/SPI/src}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/stm32_logger/libraries/SD/src}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/stm32_logger/libraries/Watchdog/src}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/stm32_logger/libraries/IWatchdog/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/stm32_logger/libraries/Wire/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/stm32_logger/libraries/DS3231M/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/stm32_logger/libraries/RTClib/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/stm32_logger/libraries/Adafruit_BusIO}&quot;"/>
 								</option>
 								<inputType id="io.sloeber.compiler.cpp.sketch.input.560139146" name="CPP source files" superClass="io.sloeber.compiler.cpp.sketch.input"/>
 							</tool>
@@ -36,8 +39,11 @@
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/stm32_logger/libraries/SrcWrapper/src}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/stm32_logger/libraries/SPI/src}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/stm32_logger/libraries/SD/src}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/stm32_logger/libraries/Watchdog/src}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/stm32_logger/libraries/IWatchdog/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/stm32_logger/libraries/Wire/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/stm32_logger/libraries/DS3231M/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/stm32_logger/libraries/RTClib/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/stm32_logger/libraries/Adafruit_BusIO}&quot;"/>
 								</option>
 								<inputType id="io.sloeber.compiler.c.sketch.input.1716164922" name="C Source Files" superClass="io.sloeber.compiler.c.sketch.input"/>
 							</tool>
@@ -48,8 +54,11 @@
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/stm32_logger/libraries/SrcWrapper/src}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/stm32_logger/libraries/SPI/src}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/stm32_logger/libraries/SD/src}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/stm32_logger/libraries/Watchdog/src}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/stm32_logger/libraries/IWatchdog/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/stm32_logger/libraries/Wire/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/stm32_logger/libraries/DS3231M/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/stm32_logger/libraries/RTClib/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/stm32_logger/libraries/Adafruit_BusIO}&quot;"/>
 								</option>
 								<inputType id="io.sloeber.compiler.S.sketch.input.1770801458" name="Assembly source files" superClass="io.sloeber.compiler.S.sketch.input"/>
 							</tool>
@@ -90,7 +99,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="libraries/?*/**/?xamples/**|libraries/?*/**/?xtras/**|libraries/?*/**/test*/**|libraries/?*/**/third-party/**|libraries/**/._*|libraries/?*/utility/*/*" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="libraries/DS3231M/Images|libraries/DS3231M/Fritzing|libraries/DS3231/Documentation|libraries/?*/**/?xamples/**|libraries/?*/**/?xtras/**|libraries/?*/**/test*/**|libraries/?*/**/third-party/**|libraries/**/._*|libraries/?*/utility/*/*" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>

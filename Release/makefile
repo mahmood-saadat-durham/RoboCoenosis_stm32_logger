@@ -9,6 +9,9 @@ RM := rm -f
 # All of the sources participating in the build are defined here
 -include sources.mk
 -include subdir.mk
+-include rtc/subdir.mk
+-include libraries/Wire/src/utility/subdir.mk
+-include libraries/Wire/src/subdir.mk
 -include libraries/SrcWrapper/src/stm32/subdir.mk
 -include libraries/SrcWrapper/src/LL/subdir.mk
 -include libraries/SrcWrapper/src/HAL/subdir.mk
@@ -17,7 +20,9 @@ RM := rm -f
 -include libraries/SPI/src/subdir.mk
 -include libraries/SD/src/utility/subdir.mk
 -include libraries/SD/src/subdir.mk
+-include libraries/RTClib/src/subdir.mk
 -include libraries/IWatchdog/src/subdir.mk
+-include libraries/Adafruit_BusIO/subdir.mk
 -include core/variant/subdir.mk
 -include core/core/stm32/usb/hid/subdir.mk
 -include core/core/stm32/usb/cdc/subdir.mk

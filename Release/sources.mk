@@ -49,7 +49,9 @@ core/core/stm32/usb/cdc \
 core/core/stm32/usb/hid \
 core/core/stm32/usb \
 core/variant \
+libraries/Adafruit_BusIO \
 libraries/IWatchdog/src \
+libraries/RTClib/src \
 libraries/SD/src \
 libraries/SD/src/utility \
 libraries/SPI/src \
@@ -58,5 +60,8 @@ libraries/SrcWrapper/src/HAL \
 libraries/SrcWrapper/src \
 libraries/SrcWrapper/src/LL \
 libraries/SrcWrapper/src/stm32 \
+libraries/Wire/src \
+libraries/Wire/src/utility \
+rtc \
 . \
 

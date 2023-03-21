@@ -117,7 +117,14 @@ stm32_logger.cpp.o: ../stm32_logger.cpp \
  /home/swacil-electronic/Applications/Sloeber/arduinoPlugin/packages/STMicroelectronics/hardware/stm32/2.4.0/cores/arduino/Print.h \
  /home/swacil-electronic/Applications/Sloeber/arduinoPlugin/libraries/SD/1.2.4/src/utility/SdFatUtil.h \
  /home/swacil-electronic/Applications/Sloeber/arduinoPlugin/packages/STMicroelectronics/hardware/stm32/2.4.0/cores/arduino/HardwareSerial.h \
- /home/swacil-electronic/Applications/Sloeber/arduinoPlugin/packages/STMicroelectronics/hardware/stm32/2.4.0/libraries/IWatchdog/src/IWatchdog.h
+ /home/swacil-electronic/Applications/Sloeber/arduinoPlugin/packages/STMicroelectronics/hardware/stm32/2.4.0/libraries/IWatchdog/src/IWatchdog.h \
+ ../rtc/Clock.h \
+ /home/swacil-electronic/Applications/Sloeber/arduinoPlugin/libraries/RTClib/2.1.1/src/RTClib.h \
+ /home/swacil-electronic/Applications/Sloeber/arduinoPlugin/libraries/Adafruit_BusIO/1.14.1/Adafruit_I2CDevice.h \
+ /home/swacil-electronic/Applications/Sloeber/arduinoPlugin/packages/STMicroelectronics/hardware/stm32/2.4.0/libraries/Wire/src/Wire.h \
+ /home/swacil-electronic/Applications/Sloeber/arduinoPlugin/packages/STMicroelectronics/hardware/stm32/2.4.0/cores/arduino/Stream.h \
+ /home/swacil-electronic/Applications/Sloeber/arduinoPlugin/packages/STMicroelectronics/hardware/stm32/2.4.0/libraries/Wire/src/utility/twi.h \
+ ../rtc/Time.h
 /home/swacil-electronic/Applications/Sloeber/arduinoPlugin/packages/STMicroelectronics/hardware/stm32/2.4.0/cores/arduino/Arduino.h:
 /home/swacil-electronic/Applications/Sloeber/arduinoPlugin/packages/STMicroelectronics/hardware/stm32/2.4.0/libraries/SrcWrapper/src/SrcWrapper.h:
 /home/swacil-electronic/Applications/Sloeber/arduinoPlugin/packages/STMicroelectronics/hardware/stm32/2.4.0/cores/arduino/wiring.h:
@@ -237,3 +244,10 @@ stm32_logger.cpp.o: ../stm32_logger.cpp \
 /home/swacil-electronic/Applications/Sloeber/arduinoPlugin/libraries/SD/1.2.4/src/utility/SdFatUtil.h:
 /home/swacil-electronic/Applications/Sloeber/arduinoPlugin/packages/STMicroelectronics/hardware/stm32/2.4.0/cores/arduino/HardwareSerial.h:
 /home/swacil-electronic/Applications/Sloeber/arduinoPlugin/packages/STMicroelectronics/hardware/stm32/2.4.0/libraries/IWatchdog/src/IWatchdog.h:
+../rtc/Clock.h:
+/home/swacil-electronic/Applications/Sloeber/arduinoPlugin/libraries/RTClib/2.1.1/src/RTClib.h:
+/home/swacil-electronic/Applications/Sloeber/arduinoPlugin/libraries/Adafruit_BusIO/1.14.1/Adafruit_I2CDevice.h:
+/home/swacil-electronic/Applications/Sloeber/arduinoPlugin/packages/STMicroelectronics/hardware/stm32/2.4.0/libraries/Wire/src/Wire.h:
+/home/swacil-electronic/Applications/Sloeber/arduinoPlugin/packages/STMicroelectronics/hardware/stm32/2.4.0/cores/arduino/Stream.h:
+/home/swacil-electronic/Applications/Sloeber/arduinoPlugin/packages/STMicroelectronics/hardware/stm32/2.4.0/libraries/Wire/src/utility/twi.h:
+../rtc/Time.h:
